@@ -1,6 +1,17 @@
 body
 {
-    color: #333;
+    color:black;
     text-align: center;
     font-family: arial;
+}
+
+#cabecera
+{
+    color:white;
+    background-color: aqua;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
 }
